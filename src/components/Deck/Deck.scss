@@ -1,0 +1,11 @@
+.container-deck{
+    //background-color: #323238;
+    height: 90vh;
+
+    // centralizando a carta para ter noção de tamanho
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 5rem;
+}
